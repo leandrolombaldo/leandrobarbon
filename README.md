@@ -3,7 +3,7 @@
 
 <br>
 
-<h2> Hi 👋🏽 I am Leandro da silva</h2>
+<h2> Hi 👋🏽 I am Leandro Lombaldo</h2>
   
 - 🎓 Undergraduate student in System Analysis and Development at Uninter.
 - 🔭 I am currently looking for an opportunity in software development.
