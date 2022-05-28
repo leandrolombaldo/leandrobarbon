@@ -1,4 +1,4 @@
-## :man_technologist: Leandro da silva :books:
+## :man_technologist: Leandro Lombaldo :books:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-da-silva-dev/)
 
 <br>
